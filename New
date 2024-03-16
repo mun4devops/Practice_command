@@ -1,3 +1,6 @@
 GIt log
 git clone
 git init
+git push
+git pull
+git fetch
